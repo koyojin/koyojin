@@ -1,8 +1,9 @@
-## Hi there 👋
+## Studying Data Science, Learning Development
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,mysql,sqlite)](https://skillicons.dev)
+
 <!--
 **koyojin/koyojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
