@@ -1,9 +1,9 @@
 # 👋 Hello! I'm Yoonjin
 
 ## 🚀 About Me
+
 Interested in ML, NLP
 Currently studying back-end development
----
 
 ### 🎓 Education
 - **경희대학교 산업경영공학과**
