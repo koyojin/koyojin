@@ -1,45 +1,46 @@
-# 👋 Hello! I'm Yoonjin
+# 👋 Hello! I'm Sangkyoung
 
 ## 🚀 About Me
+- 💻 Backend Developer passionate about ML and Data Analysis
+- 🌱 Currently focusing on backend development and AI applications
+- 🔍 Interested in solving real-world problems with technology
 
-Interested in ML, NLP
-Currently studying back-end development
+## 🛠️ Tech Stack
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎓 Education
-- **경희대학교 산업경영공학과**
+### Frameworks & Tools
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💼 Projects
-| 순번 | 기간 | 주관 | 활동 설명 |
-|---|---|---|---|
-| 1 | 2024.01.01. - 2024.02.01. | 미래와소프트웨어 | 독거 노인을 위한 질병 추론 서비스 |
-| 2 | 2024.05.01. – 2024.06.07. | 서울특별시 강서구 | 양육친화적 도시 조성을 위한 범죄 안전 지도를 주제로 공모전 수행 및 수상 |
-| 3 | 2024.06.25. - 2024.07.03. | 경희대 창업 교육 프로그램(KVP) | LLM 기반 사용자 맞춤 외국어 학습 서비스를 아이디어로 마케팅 및 창업 전반 교육 수료 |
-| 4 | 2024.07.24. - 2024.12.27. | 경희대학교 중앙동아리 KHUDA | 7호선 최적 급행 정차역 제안  |
-| 5 | 2024.07.24. - 2024.12.27. | 경희대학교 중앙동아리 KHUDA | Llama 기반 경희대 유학생 대상 LLM 서비스 |
-| 6 | 2024.07.03. – 2024.08.25. | 천안시 | 청년친화적 코워킹 스페이스 입지 최적화 |
-| 7 | 2024.09.01.-2024.12.10. | 경희대학교 산업경영공학과 | CRNN 기반 불법 벌목 음향 스펙트럼 탐지 프로젝트 |
-| 8 | 2024.09.01. – 2024.10.11. | 서울특별시 | 지역 간 연결성을 고려한 선형공원 입지 최적화|
-| 9 | 2025.01.02. - 2025.02.27. | LG Aimers 6기 | 난임 환자 임신 성공 여부 예측 해커톤 |
-| 10 | 2024.12.01. - | 분당 소재 학습관리 학원 | 학생 학습 정보 통합/수집 및 분석 플랫폼 구축 |
+## 🎓 Education
+- **제주대학교 컴퓨터공학과** (Computer Engineering, Jeju National University)
 
----
-### 🪪 Certificates & Licences
-- SQL 개발자(SQLD)
-- 데이터 분석 준전문가(ADSP)
-- 컴퓨터활용능력 1급
-- goorm 주관 군 장병 AI·SW 역량강화 교육 수료
-- LG Aimers 6th 수료
+## 💼 Projects
+| 프로젝트 | 기간 | 설명 | 사용 기술 |
+|---------|------|------|-----------|
+| **EV 자율주행 경진대회** | 2024.05 | 제3회 국제대학생 EV 자율주행 경진대회 참가 | C++, 컴퓨터 비전, 자율주행 알고리즘 |
+| **음식추천 서비스** | 2024.06 | 사용자 정보 기반 AI 음식추천 서비스 개발 | Spring, 머신러닝, 데이터 분석 |
+| **발음 교정 서비스** | 2024.10 | Vosk를 활용한 사용자 발음 교정 서비스 개발 | Django, Python, Vosk API |
+| **코딩 모집 플랫폼** (예정) | 2025.01 | 2025 카카오 현장실습 - 코딩 초보자들을 위한 모집 플랫폼 | Spring, 웹 개발 |
 
+## 🌟 Skills
+- **백엔드 개발**: RESTful API 설계, 데이터베이스 설계 및 최적화
+- **ML/데이터 분석**: 데이터 전처리, 모델 학습, 결과 분석
+
+## 📚 Currently Learning
+- 클라우드 기술 (AWS, Docker)
+- 대규모 시스템 아키텍처
+- 머신러닝 모델 배포 및 운영
 
 ## 🏆 Awards
 | 순번 | 취득일 | 수상 |
-|---|---|---|
-| 1 | 2024.06.07. | 제3회 강서구 빅데이터 분석 아이디어 공모전 장려상 |
-| 2 | 2024.07.03. | KHU Valley Program(KVP) 12기 우수상 |
-| 3 | 2024.10.11. | 2024 서울시 빅데이터 캠퍼스 공모전 우수상 |
-| 3 | 2025.02.26. | KHUDA 7기 ML Project Conference 대상 |
-
----
+|------|--------|------|
+| 🔜 | Coming Soon | Preparing for upcoming competitions |
 
 ## 📫 Contact
-- **Email**: kohj1357@gmail.com
+- **Email**: shin8877@stu.jejunu.ac.kr
+- **LinkedIn**: [Sangkyoung Shin](https://www.linkedin.com/in/sangkyoung-shin-755b74296/)
