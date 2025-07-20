@@ -1,12 +1,10 @@
-# 👋 Hello! I'm Yoonjin
-
-## 🚀 About Me
-
-Interested in data-driven decision making, NLP, explainalbe AI
+### 🚀 About Me
+👋 Hello! I'm Yoonjin <br>
+Interested in data-driven decision making, NLP, explainalbe AI <br>
 Always passionate, thoughtful, and goal-oriented
 
 ### 🎓 Education
-Industrial & Management Engineering at Kyung Hee University
+Industrial & Management Engineering at Kyung Hee University <br>
 Undergraduate research assistant at the TnDI Lab (Technology and Data Intelligence Lab)
 
 ### 💼 Projects
