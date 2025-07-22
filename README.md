@@ -1,6 +1,6 @@
 ### 🚀 About Me
 👋 Hello! I'm Yoonjin <br>
-Interested in data-driven decision making, NLP, explainalbe AI <br>
+Interested in data-driven decision making, NLP, explainable AI <br>
 Always passionate, thoughtful, and goal-oriented
 
 ### 🎓 Education
