@@ -5,6 +5,42 @@ Always passionate, thoughtful, and goal-oriented.
 
 ---
 
+## 🛠 Technical Stack
+
+### Programming & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### Backend & Data
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge\&logo=django\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+### AI / NLP / LLM
+
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-5E60CE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A9396?style=for-the-badge)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-005F73?style=for-the-badge)
+
+### Deployment & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### Collaboration & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
+
+---
+
 ## 🏆 Awards
 
 | Award | Project | Description | Date |
