@@ -1,118 +1,103 @@
-# Hi, I'm Yoonjin
+# Yoonjin 👋
 
-**Interested in data-driven decision making, LLM, and explainable AI.**  
-Always passionate, thoughtful, and goal-oriented.
+Interested in data-driven decision making, LLM, and explainable AI. Always passionate, thoughtful, and goal-oriented.
 
----
+I am a data scientist focused on data-driven decision making, explainable AI (XAI), and LLM applications. Beyond building high-performing models, I care about interpreting *why* a result occurs and connecting it to real decisions. I work end-to-end, from machine learning modeling and backend API development to LLM agent design and cloud deployment.
 
-## 🛠 Technical Stack
+- Undergraduate Research Assistant at the Technology & Data Intelligence Lab, Kyung Hee University
+- Currently focused on LLM fine-tuning, RAG, and agentic workflows
+- Grand Prize at the Education Public Data Analysis Competition (Ministry of Education), among other awards
+- Open to collaboration and proposals: kohj1357@gmail.com
 
-### Programming & Machine Learning
+## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+**Languages & ML**
+Python, scikit-learn, PyTorch
 
-### Backend & Data
+**AI / NLP / LLM**
+NLP, Topic Modeling, RAG, LLM Fine-tuning (SFT), LangChain, LangGraph, LLM Agents
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge\&logo=django\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=databricks\&logoColor=white)
+**Backend & Data**
+Django, Django REST Framework, FastAPI, SQL, MySQL, PostgreSQL
 
-### AI / NLP / LLM
+**Deployment & Infrastructure**
+Docker, AWS EC2, GCP
 
-![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
-![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-5E60CE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0A9396?style=for-the-badge)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-005F73?style=for-the-badge)
-
-### Deployment & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-### Collaboration & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
-
----
+**Collaboration & Tools**
+Git, GitHub, Notion, Slack
 
 ## 🏆 Awards
 
-| Award | Project | Description | Date |
-|------|--------|-------------|------|
-| **Grand Prize**<br/>7th Education Public Data Analysis Competition<br/>(Ministry of Education, Korea) | XAI-based Framework for Identifying Drivers of Private Education and Optimizing Public Learning Resource Allocation | Analyzed private education demand across **44 administrative regions in Gyeonggi-do**. Applied PCA + KMeans, transformed clustering into supervised learning, interpreted drivers using **XGBoost + SHAP**, and optimized public learning resource allocation via **P-median and MCLP** models. Deployed a **Streamlit-based decision support service**. | JUL 2025 |
-| **Bronze Prize**<br/>Smart Maritime Logistics × AI Mission Challenge<br/>(Ministry of Oceans and Fisheries, Korea) | Ship Trajectory Restoration for AIS Data Loss using Bi-LSTM | Processed approximately **280,000 AIS trajectory records** and developed a **Bi-LSTM-based time series model** to restore missing vessel trajectories under real-world AIS signal loss conditions. | DEC 2025 |
-| Excellence Award<br/>2024 Big Data Campus Competition<br/>(Seoul Metropolitan Government) | Urban & Social Data Analysis Project | Conducted exploratory data analysis and feature engineering for public-sector policy insights. | OCT 2024 |
-| Encouragement Award<br/>3rd Gangseo Big Data Analysis Idea Competition<br/>(Gangseo-gu Office, Seoul) | Local Policy Data Analysis Proposal | Proposed a data-driven analysis idea addressing local administrative challenges with a focus on practical applicability. | JUN 2024 |
+| Award | Competition | Date |
+|-------|-------------|------|
+| Grand Prize | 7th Education Public Data Analysis Competition — Ministry of Education, Korea | Jul 2025 |
+| Bronze Prize | Smart Maritime Logistics x AI Mission Challenge — Ministry of Oceans and Fisheries, Korea | Dec 2025 |
+| Excellence Award | 2024 Big Data Campus Competition — Seoul Metropolitan Government | Oct 2024 |
+| Encouragement Award | 3rd Gangseo Big Data Analysis Idea Competition — Gangseo-gu Office, Seoul | Jun 2024 |
 
----
+**Grand Prize — XAI-based Framework for Private Education Analysis**
+Analyzed private education demand across 44 administrative regions in Gyeonggi-do. Transformed PCA + KMeans clustering into a supervised learning task, interpreted drivers with XGBoost + SHAP, and optimized public learning resource allocation using P-median and MCLP models. Deployed a Streamlit-based decision support service.
+
+**Bronze Prize — Ship Trajectory Restoration using Bi-LSTM**
+Processed approximately 280,000 AIS trajectory records and developed a Bi-LSTM-based time series model to restore missing vessel trajectories under real-world AIS signal loss conditions.
 
 ## 🚀 Projects
 
-| Project | Description | Period |
-|--------|-------------|--------|
-| Mirae Asset Securities AI Festival — Investment Information LLM Agent | Designed an **LLM-based agent** to support investment decision-making. Collected and structured U.S. stock market reports and financial news, extracted representative issue keywords via **text processing and topic modeling**, and implemented **RAG** for context-aware responses. | JUL 2025 – AUG 2025 |
-| AI Agent for On-Campus Information Support for International Students | Developed an AI agent based on **Llama 3.2** to assist international students with campus-related information, focusing on intent detection and concise response generation. | DEC 2024 |
-| “Routinee” — Learning Routine Management App & Academy-Integrated Service | Backend development for an iPad-based learning routine management application. Designed **RESTful APIs** using Django & DRF and implemented a **MySQL-based data model** reflecting real-world academy operations. | JAN 2025 – PRESENT |
-| XAI-based Analysis of Interest Rate Changes during the Pandemic | Analyzed household-level asset and liability changes during COVID-19 using machine learning models with **XAI-based interpretation**. (Journal submission under review) | AUG 2025 – OCT 2025 |
-| Root Cause Analysis for Surface Image Anomaly Detection | University project applying **Grad-CAM** to CNN-based models for interpreting anomaly detection results and identifying failure patterns. | DEC 2025 |
-| Content-Based Filtering Recommendation System using Personal Wardrobe Items | Built a recommendation system using **content-based filtering**, modeling item attributes and user preferences to generate personalized outfit suggestions. | JUN 2025 – JUL 2025 |
+**Mirae Asset Securities AI Festival — Investment Information LLM Agent**
+`LLM` `RAG` `Topic Modeling` `LangChain`
+Designed an LLM-based agent to support investment decision-making. Collected and structured U.S. stock market reports and financial news, extracted representative issue keywords via text processing and topic modeling, and implemented RAG for context-aware responses.
+*Jul 2025 – Aug 2025*
 
----
+**AI Agent for On-Campus Information Support for International Students**
+`Llama 3.2` `Intent Detection` `LLM`
+Developed an AI agent based on Llama 3.2 to assist international students with campus-related information, focusing on intent detection and concise response generation.
+*Dec 2024*
+
+**Routinee — Learning Routine Management App**
+`Django` `DRF` `MySQL`
+Backend development for an iPad-based learning routine management application. Designed RESTful APIs using Django and DRF, and implemented a MySQL-based data model reflecting real-world academy operations.
+*Jan 2025 – Present*
+
+**XAI-based Analysis of Interest Rate Changes during the Pandemic**
+`Machine Learning` `XAI` `SHAP`
+Analyzed household-level asset and liability changes during COVID-19 using machine learning models with XAI-based interpretation. (Journal submission under review)
+*Aug 2025 – Oct 2025*
+
+**Root Cause Analysis for Surface Image Anomaly Detection**
+`CNN` `Grad-CAM` `Computer Vision`
+University project applying Grad-CAM to CNN-based models for interpreting anomaly detection results and identifying failure patterns.
+*Dec 2025*
+
+**Content-Based Filtering Recommendation System using Personal Wardrobe Items**
+`Recommendation` `Content-Based Filtering`
+Built a recommendation system using content-based filtering, modeling item attributes and user preferences to generate personalized outfit suggestions.
+*Jun 2025 – Jul 2025*
 
 ## 🔬 Research Experience
 
-| Organization | Role | Description | Period |
-|-------------|------|-------------|--------|
-| Kyung Hee University — Technology & Data Intelligence Lab | Undergraduate Research Assistant | Participated in data-driven research projects involving AI and applied analytics, supporting experimental design, data preprocessing, and analysis. | JUL 2025 – DEC 2025 |
+**Kyung Hee University — Technology & Data Intelligence Lab**
+*Undergraduate Research Assistant · Jul 2025 – Dec 2025*
+Participated in data-driven research projects involving AI and applied analytics, supporting experimental design, data preprocessing, and analysis.
 
----
-
-## 🧭 Leadership & Activities
+## Leadership & Activities
 
 | Organization | Position | Period |
-|-------------|----------|--------|
-| Kyung Hee University — CAPTIMA (Computer Science Academic Club) | President | MAR 2024 – FEB 2025 |
-| Kyung Hee University — KHUDA (Data Analytics / AI Central Club) | Data Business Track Lead | JAN 2025 – DEC 2025 |
-| Kyung Hee University — KHUDA | NLP Track Program Completion | JUL 2024 – NOV 2024 |
+|--------------|----------|--------|
+| Kyung Hee University — CAPTIMA (CS Academic Club) | President | Mar 2024 – Feb 2025 |
+| Kyung Hee University — KHUDA (Data/AI Central Club) | Data Business Track Lead | Jan 2025 – Dec 2025 |
+| Kyung Hee University — KHUDA | NLP Track Completion | Jul 2024 – Nov 2024 |
 
----
+## Certifications
 
-## 🛠 Technical Skills
+- SQL Developer (SQLD) — Korea Data Agency, Dec 2022
+- Advanced Data Analytics Semi-Professional (ADsP) — Korea Data Agency, Sep 2023
+- Computer Specialist in Spreadsheet & Database Level-1 — HRDK Korea, May 2023
 
-| Category | Skills |
-|--------|--------|
-| Programming & ML | Python, scikit-learn, PyTorch |
-| Backend & Data | Django, Django REST Framework, SQL, MySQL |
-| AI / NLP | Text Processing, Topic Modeling, LLM Fine-tuning (SFT), Retrieval-Augmented Generation (RAG) |
-| Deployment | AWS EC2, Docker |
-| Collaboration | Git, GitHub, Slack, Notion |
+## Languages
 
----
+- Korean — Native
+- English — Professional Proficiency · KATUSA (Jul 2022 – Jan 2024), OPIc Advanced Low, TOEIC 935
 
-## 📜 Certifications
+## Contact
 
-| Certification | Issued By | Date |
-|---------------|----------|------|
-| SQL Developer (SQLD) | Korea Data Agency | DEC 2022 |
-| Advanced Data Analytics Semi-Professional (ADsP) | Korea Data Agency | SEP 2023 |
-| Computer Specialist in Spreadsheet & Database Level-1 | HRDK Korea | MAY 2023 |
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency | Notes |
-|--------|-------------|-------|
-| Korean | Native | — |
-| English | Professional Proficiency | KATUSA (JUL 2022 – JAN 2024), OPIc Advanced Low, TOEIC 935 |
-
----
-
-## 📫 Contact
-- **Email**: kohj1357@gmail.com
+Email: kohj1357@gmail.com
