@@ -1,4 +1,4 @@
-# Yoonjin 👋
+# Hello 👋
 
 Interested in data-driven decision making, LLM, and explainable AI. Always passionate, thoughtful, and goal-oriented.
 
