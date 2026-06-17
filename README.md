@@ -1,8 +1,8 @@
 # Hello 👋
+Always passionate, thoughtful, and goal-oriented.
+Interested in data-driven decision making, LLM, and explainable AI. 
 
-Interested in data-driven decision making, LLM, and explainable AI. Always passionate, thoughtful, and goal-oriented.
-
-I am a data scientist focused on data-driven decision making, explainable AI (XAI), and LLM applications. Beyond building high-performing models, I care about interpreting *why* a result occurs and connecting it to real decisions. I work end-to-end, from machine learning modeling and backend API development to LLM agent design and cloud deployment.
+I'm interested in data-driven decision making, explainable AI (XAI), and LLM applications. Beyond building high-performing models, I care about interpreting *why* a result occurs and connecting it to real decisions.
 
 - Undergraduate Research Assistant at the Technology & Data Intelligence Lab, Kyung Hee University
 - Currently focused on LLM fine-tuning, RAG, and agentic workflows
